@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scipt\cameraMove.cs">
+    <Files>
+      <File FileName="Assets\Scipt\ObstacleManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scipt\playerManager.cs" Line="60" Column="37" />
+      <File FileName="Assets\Scipt\StateManager.cs" Line="22" Column="1" />
+      <File FileName="Assets\Scipt\EndBalise.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scipt\cameraMove.cs" Line="21" Column="86" />
+      <File FileName="Assets\groundDetector.cs" Line="28" Column="16" />
+      <File FileName="Assets\BackgroundManager.cs" Line="52" Column="88" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,14 @@
+------------------
+--- LES TACHES ---
+------------------
+
+- J'ai défini le scénario la trame du jeu.
+- Essayer de dessiner des croquis du jeu plus précisément
+- Dessiner des croquis dégueulasse... avec éventuellement quelques animations (dégueulasses).
+- Implémenter le jeu entier, du début à la fin.
+- En parallèle je trouve quelqu'un qui veut m'aider pour le dessin. Ou j'essaie de concrétiser les dessins. Trouver le styles et dessiner au final.
+- J'essaie aussi d'approfondir et d'améliorer la narration. (toujours en lien avec le style de dessin). Je saurai comment le mettre en place exactement).
+
+
+1. Croquis
+2. Croquis à implémenter...

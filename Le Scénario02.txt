@@ -1,0 +1,118 @@
+-------------------
+--- Le Scénario ---
+-------------------
+
+--- Narration 1 ---
+-------------------
+- Intro -----------
+
+Dessin, style papier vieux, papier... Narration par l'audio mais courte. Il était sur la montagne et la on disait, qu'un aitre.... pattes plus courte.... etc... le DAHU! Jusqu'au jour ou un premeneur fit sa rencontre.
+
+--> Style différent: J'ai besoin de la montrer à mes amis. J'ai besoin d'une preuve... Ehh ehhh attends moi.
+
+--- LEVEL 1 ---
+---------------
+
+Niveau normal avec uniquement saut simple.
+- Saut
+
+--- Narration 2 ---
+-------------------
+
+Le montagnard se trouve en face du Dahu.... J'ai pas vraiment d'idées.
+- Ah tu es embêté maintenant ! A cause de tes deux pattes plus courtes, tu ne peux pas faire demi tour!
+- Le Dahu fait un double saut!
+- Comment ?? Je peux faire ça aussi?
+
+[!] Texte indiquant que nous pouvant faire un double saut.
+
+--- LEVEL 2 ---
+---------------
+
+Niveau légèrement plus complexe, avec double saut.
+- Saut
+- Double Saut
+
+--- Narration 3 ---
+-------------------
+
+Le joueur crois avoir coisé le dahu, il se trouve dans un cul de sac à cause d'un obstacle. Murêt avec par exemple porte en bois ou cloture...
+Le Dahu défonce la porte:
+--> Montagnard ? Hein !!! ??? Je peux faire ça aussi?
+
+[!] débloquer la mécanique du défonçage d'obstacles...
+
+--- LEVEL 3 ---
+---------------
+
+Niveau avec, double saut, et défoncage de cabane...
+(Comme les cabanes sont de toutes façon démontables mais que le joueur perd une position. Le défonçage parrêt compréhensible. Le joueur défonce la barraque sans prendre du retard sur le dahu.
+- Saut
+- Double Saut
+- Défonçage d'obstacles
+
+--- Narration 4 ---
+-------------------
+
+Le montagnard lance un lasso. Le Dahu est pris par les cornes. Mais... le dahu s'en fou.... --> Il continu a courir trainant le montagnard derrière lui.
+
+--- LEVEL 4 ---
+---------------
+
+Level qui va plus rapidement... C'est plus difficile...
+(Je suis pas sur comment faire:)
+En principe le joueur ne peut plus utiliser le défonçage. (ou bien si???) --> (à tester). Il peut sauter dans tout les cas.
+
+Le joueur est en positions ski notique: 
+> Le défilement s'accélère
+- Saut
+- Double Saut
+- Défonçage
+
+--- Narration 5 ---
+-------------------
+
+Dahu est coincé... pour se sauver, il décide de changer de plan. (Il y a genre 3 plans différent ou le joueur peut se trouver). Le dahu peut donc s'enfuir, en continuant de le trainer...
+
+[!] Indication des touches pour changer de plan
+
+--- LEVEL 5 ---
+---------------
+
+Level rapide, mais cette fois-ci le joueur doit sans arrêt changer de plan pour éviter les obstacles... Il peut sembler qu'il est bien de suivre le Dahu par moment pour éviter des obstacles. Mais le piège des qu'il faut par moment mieux avoir son propre chemin...
+> Défilement rapide
+- Saut
+- Double Saut
+- Défonçage
+- Changement de plan
+
+--- Narration 6 ---
+-------------------
+
+Cette fois ci le montagnard saute sur le Dahu. Il décide de ne plus le lâcher il le tiend fermement. Mais le Dahu... et bien il continue sa course...
+Aucune nouvelle mécanique.
+
+--- LEVEL 6 ---
+---------------
+
+Level le plus long et plus dur: Le joueur chevauche le dahu. Il saute, fait des doubles saut. Défonce les obstacles. Il change de plan.
+
+- Saut
+- Double Saut
+- Défonçage
+- Changement de plan
+
+
+--- Narration 7 ---
+-------------------
+- Conclusion ------
+
+Le Dahu s'éfondre de fatigue. Devant le village... 
+Le montagnard a pitié de lui. Il s'est lié d'amitié avec le Dahu. Et il décide de respecter le choix du Dahu. Le laisser s'en aller...
+
+
+---> Scène de narration finale: Et c'est ainsi que le montagnard laissa partir le Dahu, afin personne n'aura vu le Dahu au village. Le montagnard repart le coeur tout de même empli de joie. Ses amis ne vont pas le croire, mais il est ravi dêtre le seul a avoir vu le dahu. Et qui sait peut être d'autres montagnards l'on vu aussi. Ce qui est sur c'est qu'on parle toujours encore du dahu... FIN
+
+--- Crédits ---
+---------------
+
